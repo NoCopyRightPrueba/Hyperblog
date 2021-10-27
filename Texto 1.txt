@@ -1,0 +1,3 @@
+Este es el texto de mi proyecto
+
+Con este archivo .txt estoy iniciando a aprender Git.
