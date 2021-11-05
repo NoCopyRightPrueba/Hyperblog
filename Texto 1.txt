@@ -2,4 +2,8 @@ Este es el texto de mi proyecto
 
 Con este archivo .txt estoy iniciando a aprender Git.
 
+Anita tiene 24 años y nacion en internet.
+
+Este es el cambio o la linea agregada por anita. Estoy emocionada!!!!.
+
 Hoy hablaremos de su vida estudiantil. En el ITLA el esta estudiando Ingenieria de Software.
