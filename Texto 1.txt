@@ -2,7 +2,7 @@ Este es el texto de mi proyecto
 
 Con este archivo .txt estoy iniciando a aprender Git.
 
-Anita tiene 24 años y nacio en internet.
+Anita es una persona a la que le gusta contribuir mucho en proyectos Open Source y nacio en internet.
 
 Este es el cambio o la linea agregada por anita. Estoy emocionada!!!!.
 
